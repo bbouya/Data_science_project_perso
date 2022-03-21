@@ -17,3 +17,6 @@ and text as a Watermark.
 10. Converting the image into RGB and visualizing it.
 
 
+
+Adding a watermark to an image works as copyright. Different organization can use it to make their content secure so that
+their content cannot be misused without their license or a paid version.
